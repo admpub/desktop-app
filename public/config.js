@@ -34,6 +34,6 @@ var Config = {
         }
     ],
     "lang": "",
-    "theme": "",
+    "theme": "vegetables",
     "view": "snippet"
 };
